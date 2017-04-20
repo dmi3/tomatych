@@ -13,7 +13,6 @@ See recipes:
 * [Set Slack to do not disturb mode while Pomodoro is running](http://developer.run/18#dnd)
 * [Set Tomato Emoji as Slack status while Pomodoro is running](http://developer.run/18#slack)
 * [More...](http://developer.run/18)
-Author: [Dmitry](http://dmi3.net) [Source](https://github.com/dmi3/bin)
 
 Requirements
 ------------
